@@ -22,7 +22,7 @@ As an **IT student** with a strong passion for exploring and mastering the field
 ---
 
 ## 📊 Activity Graph  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wcksnrdn&theme=dracula)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=radical)
 
 ---
 
