@@ -39,6 +39,3 @@ As an **IT student** with a strong passion for exploring and mastering the field
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=internetexplorer)](https://yourportfolio.com)  
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=wcksnrdn&color=blue)  
