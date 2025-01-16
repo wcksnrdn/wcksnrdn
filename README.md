@@ -41,4 +41,4 @@ As an **IT student** with a strong passion for exploring and mastering the field
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=wcksnrdn&color=blue)  
