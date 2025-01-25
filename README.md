@@ -5,9 +5,46 @@ Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
 </p>
 💡 About Me
 As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
-🛠️ Tech Arsenal
+🚀 Technology Constellation
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,postgresql,docker,git" />
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/laravel-icon.svg" width="60" height="60" alt="Laravel" />
+        <br>Laravel
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="60" height="60" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
+        <br>REST API
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60" height="60" alt="Node.js" />
+        <br>Node.js
+      </td>
+    </tr>
+  </table>
 </div>
 🌟 Current Quest
 
