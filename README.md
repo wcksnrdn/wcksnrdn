@@ -5,43 +5,62 @@ Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
 </p>
 💡 About Me
 As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
-🚀 Technology Constellation
+### 🚀 Technology Constellation
+
 <div align="center">
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
         <br>React
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/laravel-icon.svg" width="60" height="60" alt="Laravel" />
-        <br>Laravel
+        <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" />
+        <br>PHP
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
-        <br>MySQL
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+        <br>HTML
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
-        <br>Docker
+        <img src="https://skillicons.dev/icons?i=laravel" width="60" height="60" alt="Laravel" />
+        <br>Laravel
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="60" height="60" alt="TypeScript" />
-        <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
+        <br>Next.js
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
-        <br>REST API
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+        <br>CSS
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60" height="60" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
         <br>Node.js
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
+        <br>Express.js
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript" />
+        <br>TypeScript
       </td>
     </tr>
   </table>
