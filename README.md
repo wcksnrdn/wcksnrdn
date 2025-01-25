@@ -7,64 +7,83 @@ Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
 As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
 ### 🚀 Technology Constellation
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-        <br>HTML
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=laravel" width="60" height="60" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-        <br>Express.js
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-    </tr>
-  </table>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        .tech-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            perspective: 1000px;
+        }
+        .tech-icon {
+            width: 100px;
+            height: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 15px;
+            color: white;
+            font-weight: bold;
+            transition: all 0.5s ease;
+            transform-style: preserve-3d;
+        }
+        .tech-icon:hover {
+            transform: rotateY(180deg) scale(1.1);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        .tech-icon img {
+            width: 60px;
+            height: 60px;
+            transition: transform 0.5s;
+        }
+        .tech-icon:hover img {
+            transform: rotate(360deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="tech-container">
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=react" alt="React">
+            <span>React</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+            <span>JavaScript</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel">
+            <span>Laravel</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+            <span>Node.js</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+            <span>TypeScript</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+            <span>Next.js</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=php" alt="PHP">
+            <span>PHP</span>
+        </div>
+        <div class="tech-icon">
+            <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
+            <span>Tailwind</span>
+        </div>
+    </div>
+</body>
+</html>
 🌟 Current Quest
 
 🔭 Mission: Architecting next-gen web applications
