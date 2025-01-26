@@ -42,7 +42,7 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
       </td>
       <td align="center" width="140">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-        <br>Node.js
+        <br>Python
       </td>
     </tr>
   </table>
