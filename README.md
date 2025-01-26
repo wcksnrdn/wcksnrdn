@@ -19,12 +19,16 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
         <br>JavaScript
       </td>
       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="60" height="60" alt="Laravel" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="60" height="60" alt="Web Pack" />
         <br>Web Pack
       </td>
       <td align="center" width="140">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
         <br>MySQL
+      </td>
+       <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="C++" />
+        <br>C++
       </td>
     </tr>
     <tr>
