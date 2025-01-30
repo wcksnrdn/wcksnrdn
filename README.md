@@ -72,7 +72,7 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 </div>
 🎯 Let's Connect & Collaborate!
 <div align="center">
-  <a href="https://www.linkedin.com/in/satriaardan" target="_blank">
+  <a href="https://www.linkedin.com/in/satriaardan" target="_blank"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ardansatria004@gmail.com">
