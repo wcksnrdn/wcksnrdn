@@ -1,7 +1,7 @@
 Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
 🎮 Interactive Coding Journey
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/wcksnrdn/wcksnrdn/main/snake-game.svg" alt="Coding Snake Game" width="800"> 
+  <img src="https://raw.githubusercontent.com/wcksnrdn/wcksnrdn/main/snake-game.svg" alt="Coding Snake Game" width="800">
 </p>
 
 As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
