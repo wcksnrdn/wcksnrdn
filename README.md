@@ -10,7 +10,7 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="140"> 
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
         <br>React
       </td>
