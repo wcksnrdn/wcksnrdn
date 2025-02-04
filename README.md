@@ -1,5 +1,5 @@
 Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
-🎮 Interactive Coding Journey
+🎮 Interactive Coding Journey 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/wcksnrdn/wcksnrdn/main/snake-game.svg" alt="Coding Snake Game" width="800">
 </p>
