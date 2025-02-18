@@ -1,7 +1,7 @@
 Hi there, I'm Satria Ardan Wicaksono! 🚀🔬
 🎮 Interactive Coding Journey 
 
-As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
+As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges. 
 ### 🚀 Technology Constellation
  
 <div align="center">
