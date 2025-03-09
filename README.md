@@ -1,20 +1,31 @@
-# <div align="center">👨‍💻 Satria Ardan Wicaksono</div>
-
 <div align="center">
+  <h1>
+    <svg width="1em" height="1em" viewBox="0 0 500 100">
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#7AF79E;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00E3FF;stop-opacity:1" />
+      </linearGradient>
+      <text x="50%" y="70" dominant-baseline="middle" text-anchor="middle" fill="url(#grad1)" font-size="48" font-family="Fira Code">
+        👨💻 Satria Ardan Wicaksono
+      </text>
+    </svg>
+  </h1>
+
+  <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer" alt="Typing SVG" />
-  <br>
-  <a>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
-  </a>
-</div>
+  
+  <!-- Animated Tech Grid -->
+  <div>
+    <img src="https://i.imgur.com/0y5F5AN.gif" width="100%" alt="tech grid animation">
+  </div>
 
+  <!-- Animated Header -->
+  <div align="center">
+    <img src="https://github.com/SatriaArd/SatriaArd/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation">
+  </div>
+  
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f3630302077617465722e676966" width="100%" height="100px" alt="Header Animation">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
 </div>
 
 <br>
