@@ -118,7 +118,7 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <p align="center">
