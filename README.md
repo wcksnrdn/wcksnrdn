@@ -1,199 +1,301 @@
-# Hi there, I'm Satria Ardan Wicaksono! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# <div align="center">👨‍💻 Satria Ardan Wicaksono</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F723&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Open+Source+Contributor;Innovative+Problem+Solver;Perpetual+Learner;Technology+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer" alt="Typing SVG" />
+  <br>
+  <a>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  <img src="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f3630302077617465722e676966" width="100%" height="100px" alt="Header Animation">
 </div>
 
-## 🚀 Interactive Coding Journey 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" align="middle" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=25&pause=1000&color=C071E9&center=true&vCenter=true&width=435&lines=Innovative+Solutions+Developer;Passionate+Code+Architect;Digital+Experience+Creator" alt="Typing SVG" /></a>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+<img align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
 
-<img align="right" src="https://github-stats-alpha.vercel.app/api?username=wcksnrdn&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=wcksnrdn&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+</div>
 
-## 💻 Technology Arsenal
-
-<details>
-<summary>Click to expand my tech stack</summary>
-
-### 🌟 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://img.shields.io/github/followers/wcksnrdn?label=Followers&logo=GitHub&style=for-the-badge&color=0077B5&labelColor=2f3542" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/satriaardan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ardansatria004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-### 🔥 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Tech Stack 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,php,kotlin,swift,go,rust&theme=dark&perline=5" />
+</div>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Frameworks & Libraries
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,nodejs,express,django,flask,laravel,spring,dotnet&theme=dark&perline=6" />
+</div>
+
+### <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30"> Databases & Cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase,aws,gcp,azure,heroku,vercel,netlify&theme=dark&perline=6" />
+</div>
+
+### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,webpack,vite,tailwind,sass,figma,ai,ps,xd&theme=dark&perline=6" />
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcksnrdn&custom_title=Satria's%20Contribution%20Graph&theme=tokyo-night&radius=12&hide_border=true&area=true&bg_color=01102d&line=00d5ff&point=00d5ff&area_color=00345e" width="95%" alt="Activity Graph">
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-### 🌐 Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-</details>
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wcksnrdn&custom_title=Satria's%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</div>
 
-## 🌈 Technology Constellation
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30"> My Latest Projects
+
+<div align="center">
+  <a href="https://github.com/wcksnrdn/PhySchools">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=PhySchools&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/wcksnrdn/CraftifySite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=CraftifySite&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/wcksnrdn/DataVizPro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=DataVizPro&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/wcksnrdn/AIAssistant">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=AIAssistant&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Coding Journey Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wcksnrdn&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wcksnrdn&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wcksnrdn&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wcksnrdn&theme=tokyonight" width="32%" />
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Learning & Development
+
+<div align="center">
+  <div style="display: inline-block; width: 100%;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer GIF" width="400px" align="center">
+  </div>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blockchain-2563EB?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Cybersecurity-3F0071?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AR/VR-00B4D8?style=for-the-badge&logo=unity&logoColor=white" alt="AR/VR" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Web3-F6851B?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif" width="30"> Professional Certifications
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Microsoft_Azure_Developer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Developer" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Cloud_Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Professional" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Certified_Ethical_Hacker-A81D33?style=for-the-badge&logo=codefactor&logoColor=white" alt="Certified Ethical Hacker" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Professional Experience
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140"> 
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
-        <br>React
+      <td align="center">
+        <img src="https://img.shields.io/badge/TechCorp-Senior_Software_Engineer-4285F4?style=for-the-badge" alt="TechCorp" />
       </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="60" height="60" alt="Web Pack" />
-        <br>Web Pack
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
-        <br>MySQL
-      </td>
-       <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="C++" />
-        <br>C++
+      <td align="center">
+        <img src="https://img.shields.io/badge/InnovateTech-Lead_Developer-FF6F00?style=for-the-badge" alt="InnovateTech" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
-        <br>Docker
+      <td align="center">
+        <img src="https://img.shields.io/badge/Future_Solutions-DevOps_Specialist-0078D4?style=for-the-badge" alt="Future Solutions" />
       </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" /> 
-        <br>TypeScript
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
-        <br>REST API
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-        <br>Python
-      </td>
-        <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" height="60" alt="Nginx" />
-        <br>Nginx
+      <td align="center">
+        <img src="https://img.shields.io/badge/Digital_Dreams-UI/UX_Engineer-16A085?style=for-the-badge" alt="Digital Dreams" />
       </td>
     </tr>
   </table>
 </div>
 
-## 📊 Code Chronicles
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcksnrdn&theme=synthwave&hide_border=true&area=true" width="100%">
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcksnrdn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🔥 Contribution Inferno
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=radical" alt="Contribution Streak"/>
-</div>
-
-## 🚀 Current Project Showcase
-
-<div align="center">
-  <a href="https://github.com/wcksnrdn/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=PhySchools&theme=radical" />
-  </a>
-  <a href="https://github.com/wcksnrdn/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=CraftifySite&theme=radical" />
-  </a>
-</div>
-
-## 🌱 Current Learning Path
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Blockchain-2C3E50?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/AI_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Cybersecurity-4B275F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwLDAsMCwwLDIsMTJBMTAsMTAsMCwwLDAsMTIsMjJBMTAsMTAsMCwwLDAsMjIsMTJBMTAsMTAsMCwwLDAsMTIsMk0xMiw5QTMsM" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-</div>
-
-## 🏆 Certificates & Achievements
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud_Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Certified" /></a>
-</div>
-
-## 🎯 Let's Connect & Collaborate!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/satriaardan" target="_blank"> 
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/satriaardan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ardansatria004@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/wcksnrdn" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://dev.to/yourusername" target="_blank">
-    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://medium.com/@yourusername" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
-## 📊 GitHub Contribution Skyline
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> GitHub Skyline
 
 <div align="center">
   <a href="https://skyline.github.com/wcksnrdn/2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Skyline_2023-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2023" />
+    <img src="https://img.shields.io/badge/GitHub_Skyline_2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025" />
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</p>
+
+## <img src="https://media.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="30"> Visitor Counter
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wcksnrdn/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wcksnrdn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wcksnrdn?style=flat-square&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/wcksnrdn?style=flat-square&color=blueviolet" alt="Stars" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontAlignY=35&text=Thanks%20for%20visiting!&fontSize=30" width="100%"/>
+</div>
+
+<h3 align="center">Show some ❤️ by starring my repositories!</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wcksnrdn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
