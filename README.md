@@ -219,28 +219,6 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Professional Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TechCorp-Senior_Software_Engineer-4285F4?style=for-the-badge" alt="TechCorp" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/InnovateTech-Lead_Developer-FF6F00?style=for-the-badge" alt="InnovateTech" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Future_Solutions-DevOps_Specialist-0078D4?style=for-the-badge" alt="Future Solutions" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Digital_Dreams-UI/UX_Engineer-16A085?style=for-the-badge" alt="Digital Dreams" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
@@ -273,14 +251,6 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/wcksnrdn/2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Skyline_2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
@@ -302,13 +272,3 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 </div>
 
 <h3 align="center">Show some ❤️ by starring my repositories!</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wcksnrdn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wcksnrdn?style=flat-square&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/wcksnrdn?style=flat-square&color=blueviolet" alt="Stars" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
