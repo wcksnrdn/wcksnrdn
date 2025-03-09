@@ -219,11 +219,6 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </p>
 
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 
 <div align="center">
@@ -246,10 +241,6 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
