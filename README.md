@@ -13,15 +13,10 @@
 
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer" alt="Typing SVG" />
-  
-  <!-- Animated Tech Grid -->
-  <div>
-    <img src="https://i.imgur.com/0y5F5AN.gif" width="100%" alt="tech grid animation">
-  </div>
 
   <!-- Animated Header -->
   <div align="center">
-    <img src="https://github.com/SatriaArd/SatriaArd/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation">
+    <img src="[https://github.com/SatriaArd/SatriaArd/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)" width="100%" alt="snake animation">
   </div>
   
 <div align="center">
