@@ -34,28 +34,50 @@
 </div>
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding Animation" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400"/>
-
-<p align="left">
-I am not just a developer; I am a <b>digital architect</b> crafting the future through code.
-
-As a technological visionary with an insatiable curiosity, I transform complex problems into elegant solutions that push the boundaries of what's possible. My code is not just functional—it's a form of artistic expression that combines technical excellence with creative innovation.
-
-Every project I undertake is an opportunity to revolutionize the digital landscape, creating experiences that are not only intuitive and efficient but also captivating and memorable.
-
-My development philosophy: <i>"Code as if the person maintaining your code is a violent psychopath who knows where you live."</i>
-</p>
-
-<!-- Animated 3D Statistics Card -->
 <div align="center">
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://github-stats-alpha.vercel.app/api?username=wcksnrdn&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
-  </a>
+  <img align="center" alt="Coding Wizard" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
 </div>
 
-<!-- Holographic Social Connection Cards -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=37BCF6&center=true&vCenter=true&random=false&width=600&lines=Digital+Architect;Code+Craftsman;Technological+Visionary;Problem+Solver;Creative+Innovator" alt="Typing SVG" />
+</div>
+
 <p align="center">
+I transform complex problems into elegant solutions that push the boundaries of what's possible. My code is not just functional—it's a form of artistic expression that combines technical excellence with creative innovation.
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</div>
+
+<div align="center">
+  <i>"Code as if the person maintaining your code is a violent psychopath who knows where you live."</i>
+</div>
+
+<!-- Animated 3D Statistics Cards -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=37BCF6&fire=37BCF6&currStreakLabel=37BCF6" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wcksnrdn&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<!-- Animated Skills Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,go,docker,aws,figma,git&theme=dark" />
+</div>
+
+<!-- Animated Social Connection Cards -->
+<div align="center">
   <a href="https://github.com/wcksnrdn">
     <img src="https://img.shields.io/github/followers/wcksnrdn?label=Followers&logo=GitHub&style=for-the-badge&color=0077B5&labelColor=2f3542" alt="GitHub Followers">
   </a>
@@ -65,11 +87,15 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   <a href="mailto:ardansatria004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
-<!-- Reliable Animation Divider -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wcksnrdn/count.svg" alt="Visitor Count" />
 </div>
 
 ## 💻 My Tech Stack 
