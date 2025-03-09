@@ -1,48 +1,75 @@
 <div align="center">
-  <h1>
-    <svg width="1em" height="1em" viewBox="0 0 500 100">
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#7AF79E;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#00E3FF;stop-opacity:1" />
-      </linearGradient>
-      <text x="50%" y="70" dominant-baseline="middle" text-anchor="middle" fill="url(#grad1)" font-size="48" font-family="Fira Code">
-        👨💻 Satria Ardan Wicaksono
-      </text>
-    </svg>
-  </h1>
-
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer" alt="Typing SVG" />
-
-  <!-- Animated Header -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" alt="snake animation">
-  </div>
+  <!-- Advanced Animated Header with 3D Text Effect -->
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7AF79E&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Satria+Ardan" alt="Name Header" />
+  </a>
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00E3FF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Wicaksono" alt="Name Header" />
+  </a>
   
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  <!-- Matrix-style Digital Rain Animation -->
+  <img src="https://i.imgur.com/QmqFcVu.gif" width="100%" height="150px" alt="digital code rain animation" />
+  
+  <!-- Dynamic 3D Developer Animation -->
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://i.imgur.com/1ZvVkDc.gif" alt="3D Developer Animation" width="500" />
+  </a>
+
+  <!-- Advanced Animated Typing Effect with Multiple Technologies -->
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer;UI%2FUX+Designer;AI+%26+ML+Experimenter;Blockchain+Developer" alt="Typing SVG" />
+  </a>
+
+  <!-- Holographic 3D Technology Sphere -->
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://i.imgur.com/sX8BVzR.gif" width="350px" alt="Tech Sphere" />
+  </a>
+  
+  <!-- Enhanced Snake Animation with Custom Color -->
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" alt="snake animation">
+  </a>
+  
+  <!-- 3D Trophy Display with Holographic Effect -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  </div>
 </div>
 
 <br>
 
+<!-- Futuristic Divider -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=25&pause=1000&color=C071E9&center=true&vCenter=true&width=435&lines=Innovative+Solutions+Developer;Passionate+Code+Architect;Digital+Experience+Creator" alt="Typing SVG" /></a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://i.imgur.com/XVpT38C.gif" width="40"> About Me
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<!-- Advanced Profile Section with Animated Elements -->
+<div align="center">
+  <img src="https://i.imgur.com/VLwNnkh.gif" width="100%" height="50px" alt="Cyber Banner" />
+</div>
+
+<img align="right" alt="Coding Animation" src="https://i.imgur.com/xXiYMDx.gif" width="400"/>
+
+<p align="left">
+I am not just a developer; I am a <b>digital architect</b> crafting the future through code.
+
+As a technological visionary with an insatiable curiosity, I transform complex problems into elegant solutions that push the boundaries of what's possible. My code is not just functional—it's a form of artistic expression that combines technical excellence with creative innovation.
+
+Every project I undertake is an opportunity to revolutionize the digital landscape, creating experiences that are not only intuitive and efficient but also captivating and memorable.
+
+My development philosophy: <i>"Code as if the person maintaining your code is a violent psychopath who knows where you live."</i>
 </p>
 
-<img align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
-
-As an IT enthusiast with an insatiable curiosity for technology, I'm on a mission to transform innovative ideas into cutting-edge digital solutions. My passion lies in crafting efficient, elegant code that solves real-world challenges.
-
+<!-- Animated 3D Statistics Card -->
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=wcksnrdn&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  <a href="https://github.com/wcksnrdn">
+    <img src="https://github-stats-alpha.vercel.app/api?username=wcksnrdn&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  </a>
 </div>
 
+<!-- Holographic Social Connection Cards -->
 <p align="center">
   <a href="https://github.com/wcksnrdn">
     <img src="https://img.shields.io/github/followers/wcksnrdn?label=Followers&logo=GitHub&style=for-the-badge&color=0077B5&labelColor=2f3542" alt="GitHub Followers">
@@ -55,14 +82,17 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Tech Stack 
-
+<!-- Futuristic Divider with Pulse Effect -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
+</div>
+
+## <img src="https://i.imgur.com/o2SaEUe.gif" width="40"> My Tech Stack 
+
+<!-- 3D Rotating Tech Stack Display -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
@@ -70,48 +100,56 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
 
+<!-- Animating Tech Stack Section with Pulse Effect -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
 </div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages
+### <img src="https://i.imgur.com/NWpsj5f.gif" width="40"> Languages
 
 <div align="center">
+  <!-- Animated Language Icons with Hover Effects -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,php,kotlin,swift,go,rust&theme=dark&perline=5" />
+  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Language Divider" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Frameworks & Libraries
+### <img src="https://i.imgur.com/kOcSKkh.gif" width="40"> Frameworks & Libraries
 
 <div align="center">
+  <!-- Animated Framework Icons with Hover Effects -->
   <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,nodejs,express,django,flask,laravel,spring,dotnet&theme=dark&perline=6" />
+  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Framework Divider" />
 </div>
 
-### <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30"> Databases & Cloud
+### <img src="https://i.imgur.com/C1dQmwB.gif" width="40"> Databases & Cloud
 
 <div align="center">
+  <!-- Animated Cloud & Database Icons -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase,aws,gcp,azure,heroku,vercel,netlify&theme=dark&perline=6" />
+  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Database Divider" />
 </div>
 
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Tools & Technologies
+### <img src="https://i.imgur.com/iUxEm1A.gif" width="40"> Tools & Technologies
 
 <div align="center">
+  <!-- Animated Tools Icons with Glow Effect -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,webpack,vite,tailwind,sass,figma,ai,ps,xd&theme=dark&perline=6" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
+<!-- Animated Cyber Divider -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcksnrdn&custom_title=Satria's%20Contribution%20Graph&theme=tokyo-night&radius=12&hide_border=true&area=true&bg_color=01102d&line=00d5ff&point=00d5ff&area_color=00345e" width="95%" alt="Activity Graph">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+## <img src="https://i.imgur.com/Lra5MCJ.gif" width="40"> GitHub Analytics
 
+<!-- 3D Animated GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcksnrdn&custom_title=Satria's%20Contribution%20Graph&theme=tokyo-night&radius=12&hide_border=true&area=true&bg_color=01102d&line=00d5ff&point=00d5ff&area_color=00345e" width="95%" alt="Activity Graph">
+  <img src="https://i.imgur.com/kd0Xj0r.gif" width="100%" height="50px" alt="Analytics Banner" />
+</div>
+
+<!-- Holographic Stats Cards with 3D Effect -->
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wcksnrdn&custom_title=Satria's%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -121,12 +159,14 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+<!-- Digital Wave Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30"> My Latest Projects
+## <img src="https://i.imgur.com/Kn8Qx9K.gif" width="40"> My Latest Projects
 
+<!-- Animated Project Cards with Hover Effects -->
 <div align="center">
   <a href="https://github.com/wcksnrdn/PhySchools">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=PhySchools&theme=tokyonight&hide_border=true" />
@@ -145,12 +185,14 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+<!-- Electronic Circuit Board Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/t5UiSlY.gif" height="30" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Coding Journey Metrics
+## <img src="https://i.imgur.com/7sISYhN.gif" width="40"> Coding Journey Metrics
 
+<!-- 3D Animated Metrics Dashboard -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wcksnrdn&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
 </div>
@@ -161,18 +203,21 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wcksnrdn&theme=tokyonight" width="32%" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+<!-- Neon Line Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Learning & Development
+## <img src="https://i.imgur.com/oPrCvq4.gif" width="40"> Learning & Development
 
+<!-- Advanced Learning Animation -->
 <div align="center">
   <div style="display: inline-block; width: 100%;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer GIF" width="400px" align="center">
+    <img src="https://i.imgur.com/jdaYtXs.gif" alt="Developer Learning GIF" width="400px" align="center">
   </div>
 </div>
 
+<!-- Futuristic Tech Badge Collection -->
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Machine_Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
@@ -191,12 +236,14 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+<!-- Digital Wave Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif" width="30"> Professional Certifications
+## <img src="https://i.imgur.com/X9nw1mV.gif" width="40"> Professional Certifications
 
+<!-- Holographic Certification Badges -->
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
@@ -215,11 +262,17 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
+<!-- Binary Code Divider Animation -->
+<div align="center">
+  <img src="https://i.imgur.com/t5UiSlY.gif" height="30" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
+## <img src="https://i.imgur.com/eRxhKj3.gif" width="40"> Connect with Me
+
+<!-- Animated Social Media Connection Hub -->
+<div align="center">
+  <img src="https://i.imgur.com/ZIstQPZ.gif" width="100%" height="50px" alt="Connect Banner" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/satriaardan" target="_blank">
@@ -242,13 +295,16 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</p>
-
-## <img src="https://media.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="30"> Visitor Counter
-
+<!-- Digital Wave Divider -->
 <div align="center">
+  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+</div>
+
+## <img src="https://i.imgur.com/4JzWQXn.gif" width="40"> Visitor Counter
+
+<!-- Holographic Visitor Counter -->
+<div align="center">
+  <img src="https://i.imgur.com/mCwyzlB.gif" width="100%" height="40px" alt="Visitor Banner" />
   <img src="https://profile-counter.glitch.me/wcksnrdn/count.svg" alt="Visitor Count" />
 </div>
 
@@ -258,8 +314,10 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
   <img src="https://img.shields.io/github/stars/wcksnrdn?style=flat-square&color=blueviolet" alt="Stars" />
 </div>
 
+<!-- Epic Closing Animation -->
 <div align="center">
+  <img src="https://i.imgur.com/HcpWNJr.gif" width="100%" height="100px" alt="Thank You Animation" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontAlignY=35&text=Thanks%20for%20visiting!&fontSize=30" width="100%"/>
 </div>
 
-<h3 align="center">Show some ❤️ by starring my repositories!</h3>
+<h3 align="center">⭐ Show some ❤️ by starring my repositories! ⭐</h3>
