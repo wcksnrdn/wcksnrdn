@@ -188,32 +188,9 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 ## 📊 GitHub Contribution Skyline
 
 <div align="center">
-  <a href="https://skyline.github.com/wcksnrdn/2023" target="_blank">
+  <a href="https://skyline.github.com/wcksnrdn/2025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Skyline_2023-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2023" />
   </a>
-</div>
-
-## 💼 Work Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Company_A-Senior_Developer-4285F4?style=for-the-badge" alt="Company A" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Company_B-Tech_Lead-FF6F00?style=for-the-badge" alt="Company B" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Company_C-Software_Engineer-0078D4?style=for-the-badge" alt="Company C" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Company_D-Frontend_Developer-16A085?style=for-the-badge" alt="Company D" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
