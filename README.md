@@ -1,36 +1,26 @@
 <div align="center">
   <!-- Advanced Animated Header with 3D Text Effect -->
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7AF79E&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Satria+Ardan" alt="Name Header" />
-  </a>
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00E3FF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Wicaksono" alt="Name Header" />
-  </a>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=7AF79E&center=true&vCenter=true&width=435&lines=Satria+Ardan" alt="Typing SVG" />
+    </a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00E3FF&center=true&vCenter=true&width=435&lines=Wicaksono" alt="Typing SVG" />
+    </a>
+  </h1>
   
-  <!-- Matrix-style Digital Rain Animation -->
-  <img src="https://i.imgur.com/QmqFcVu.gif" width="100%" height="150px" alt="digital code rain animation" />
+  <!-- Reliable Developer Animation -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
   
-  <!-- Dynamic 3D Developer Animation -->
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://i.imgur.com/1ZvVkDc.gif" alt="3D Developer Animation" width="500" />
-  </a>
-
   <!-- Advanced Animated Typing Effect with Multiple Technologies -->
-  <a href="https://github.com/wcksnrdn">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=7AF79E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Innovation+Creator;Tech+Explorer;UI%2FUX+Designer;AI+%26+ML+Experimenter;Blockchain+Developer" alt="Typing SVG" />
-  </a>
-
-  <!-- Holographic 3D Technology Sphere -->
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://i.imgur.com/sX8BVzR.gif" width="350px" alt="Tech Sphere" />
   </a>
   
   <!-- Enhanced Snake Animation with Custom Color -->
-  <a href="https://github.com/wcksnrdn">
-    <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" alt="snake animation">
-  </a>
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" alt="snake animation">
   
-  <!-- 3D Trophy Display with Holographic Effect -->
+  <!-- 3D Trophy Display -->
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
   </div>
@@ -38,19 +28,14 @@
 
 <br>
 
-<!-- Futuristic Divider -->
+<!-- Reliable Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/XVpT38C.gif" width="40"> About Me
+## 🚀 About Me
 
-<!-- Advanced Profile Section with Animated Elements -->
-<div align="center">
-  <img src="https://i.imgur.com/VLwNnkh.gif" width="100%" height="50px" alt="Cyber Banner" />
-</div>
-
-<img align="right" alt="Coding Animation" src="https://i.imgur.com/xXiYMDx.gif" width="400"/>
+<img align="right" alt="Coding Animation" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400"/>
 
 <p align="left">
 I am not just a developer; I am a <b>digital architect</b> crafting the future through code.
@@ -82,12 +67,12 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   </a>
 </p>
 
-<!-- Futuristic Divider with Pulse Effect -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/o2SaEUe.gif" width="40"> My Tech Stack 
+## 💻 My Tech Stack 
 
 <!-- 3D Rotating Tech Stack Display -->
 <div align="center">
@@ -100,53 +85,49 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
 
-<!-- Animating Tech Stack Section with Pulse Effect -->
+<!-- Reliable Cool Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### <img src="https://i.imgur.com/NWpsj5f.gif" width="40"> Languages
+### 🔤 Languages
 
 <div align="center">
   <!-- Animated Language Icons with Hover Effects -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,php,kotlin,swift,go,rust&theme=dark&perline=5" />
-  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Language Divider" />
 </div>
 
-### <img src="https://i.imgur.com/kOcSKkh.gif" width="40"> Frameworks & Libraries
+### 🛠️ Frameworks & Libraries
 
 <div align="center">
   <!-- Animated Framework Icons with Hover Effects -->
   <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,nodejs,express,django,flask,laravel,spring,dotnet&theme=dark&perline=6" />
-  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Framework Divider" />
 </div>
 
-### <img src="https://i.imgur.com/C1dQmwB.gif" width="40"> Databases & Cloud
+### ☁️ Databases & Cloud
 
 <div align="center">
   <!-- Animated Cloud & Database Icons -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase,aws,gcp,azure,heroku,vercel,netlify&theme=dark&perline=6" />
-  <img src="https://i.imgur.com/6Kg5Ax3.gif" width="100%" height="5px" alt="Database Divider" />
 </div>
 
-### <img src="https://i.imgur.com/iUxEm1A.gif" width="40"> Tools & Technologies
+### 🔧 Tools & Technologies
 
 <div align="center">
   <!-- Animated Tools Icons with Glow Effect -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,webpack,vite,tailwind,sass,figma,ai,ps,xd&theme=dark&perline=6" />
 </div>
 
-<!-- Animated Cyber Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/Lra5MCJ.gif" width="40"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <!-- 3D Animated GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcksnrdn&custom_title=Satria's%20Contribution%20Graph&theme=tokyo-night&radius=12&hide_border=true&area=true&bg_color=01102d&line=00d5ff&point=00d5ff&area_color=00345e" width="95%" alt="Activity Graph">
-  <img src="https://i.imgur.com/kd0Xj0r.gif" width="100%" height="50px" alt="Analytics Banner" />
 </div>
 
 <!-- Holographic Stats Cards with 3D Effect -->
@@ -159,12 +140,12 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcksnrdn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-<!-- Digital Wave Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/Kn8Qx9K.gif" width="40"> My Latest Projects
+## 📱 My Latest Projects
 
 <!-- Animated Project Cards with Hover Effects -->
 <div align="center">
@@ -185,12 +166,12 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   </a>
 </div>
 
-<!-- Electronic Circuit Board Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/t5UiSlY.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/7sISYhN.gif" width="40"> Coding Journey Metrics
+## 📈 Coding Journey Metrics
 
 <!-- 3D Animated Metrics Dashboard -->
 <div align="center">
@@ -203,17 +184,17 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wcksnrdn&theme=tokyonight" width="32%" />
 </div>
 
-<!-- Neon Line Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/M2U0Bxx.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/oPrCvq4.gif" width="40"> Learning & Development
+## 🌱 Learning & Development
 
 <!-- Advanced Learning Animation -->
 <div align="center">
   <div style="display: inline-block; width: 100%;">
-    <img src="https://i.imgur.com/jdaYtXs.gif" alt="Developer Learning GIF" width="400px" align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Learning GIF" width="400px" align="center">
   </div>
 </div>
 
@@ -236,12 +217,12 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   </a>
 </div>
 
-<!-- Digital Wave Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/X9nw1mV.gif" width="40"> Professional Certifications
+## 🏆 Professional Certifications
 
 <!-- Holographic Certification Badges -->
 <div align="center">
@@ -262,18 +243,14 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   </a>
 </div>
 
-<!-- Binary Code Divider Animation -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/t5UiSlY.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/eRxhKj3.gif" width="40"> Connect with Me
+## 🔗 Connect with Me
 
 <!-- Animated Social Media Connection Hub -->
-<div align="center">
-  <img src="https://i.imgur.com/ZIstQPZ.gif" width="100%" height="50px" alt="Connect Banner" />
-</div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/satriaardan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -295,16 +272,15 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   </a>
 </div>
 
-<!-- Digital Wave Divider -->
+<!-- Reliable Animation Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/vFTJMQz.gif" height="30" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://i.imgur.com/4JzWQXn.gif" width="40"> Visitor Counter
+## 👀 Visitor Counter
 
 <!-- Holographic Visitor Counter -->
 <div align="center">
-  <img src="https://i.imgur.com/mCwyzlB.gif" width="100%" height="40px" alt="Visitor Banner" />
   <img src="https://profile-counter.glitch.me/wcksnrdn/count.svg" alt="Visitor Count" />
 </div>
 
@@ -314,9 +290,8 @@ My development philosophy: <i>"Code as if the person maintaining your code is a 
   <img src="https://img.shields.io/github/stars/wcksnrdn?style=flat-square&color=blueviolet" alt="Stars" />
 </div>
 
-<!-- Epic Closing Animation -->
+<!-- Reliable Closing Animation -->
 <div align="center">
-  <img src="https://i.imgur.com/HcpWNJr.gif" width="100%" height="100px" alt="Thank You Animation" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontAlignY=35&text=Thanks%20for%20visiting!&fontSize=30" width="100%"/>
 </div>
 
