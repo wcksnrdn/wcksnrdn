@@ -33,48 +33,51 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 About Me
+## 🚀 Digital Architect
+
 <div align="center">
-  <img align="center" alt="Coding Wizard" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=37BCF6&center=true&vCenter=true&random=false&width=600&lines=Digital+Architect;Code+Craftsman;Technological+Visionary;Problem+Solver;Creative+Innovator" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="600" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="600" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFnYnVyOWFyeDhjaTlldG5lNHJ1bnZhZHc5bW1vZTVjM3U1cHllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
 
 <p align="center">
-I transform complex problems into elegant solutions that push the boundaries of what's possible. My code is not just functional—it's a form of artistic expression that combines technical excellence with creative innovation.
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
-</div>
-
-<div align="center">
   <i>"Code as if the person maintaining your code is a violent psychopath who knows where you live."</i>
-</div>
-
-<!-- Animated 3D Statistics Cards -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wcksnrdn&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=37BCF6&fire=37BCF6&currStreakLabel=37BCF6" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wcksnrdn&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wcksnrdn&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<!-- Animated Skills Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,go,docker,aws,figma,git&theme=dark" />
-</div>
+</p>
 
 <!-- Animated Social Connection Cards -->
 <div align="center">
@@ -89,13 +92,13 @@ I transform complex problems into elegant solutions that push the boundaries of 
   </a>
 </div>
 
-<!-- Animated Footer -->
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wcksnrdn/count.svg" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
 ## 💻 My Tech Stack 
