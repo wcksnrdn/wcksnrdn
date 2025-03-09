@@ -16,7 +16,7 @@
 
   <!-- Animated Header -->
   <div align="center">
-    <img src="[https://github.com/SatriaArd/SatriaArd/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)" width="100%" alt="snake animation">
+    <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" alt="snake animation">
   </div>
   
 <div align="center">
