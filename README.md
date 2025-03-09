@@ -138,23 +138,11 @@ As an IT enthusiast with an insatiable curiosity for technology, I'm on a missio
 
 <div align="center">
   <a href="https://github.com/wcksnrdn/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=project-1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=PhySchools&theme=radical" />
   </a>
   <a href="https://github.com/wcksnrdn/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=project-2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcksnrdn&repo=CraftifySite&theme=radical" />
   </a>
-</div>
-
-## 📂 Portfolio Timeline
-
-<div align="center">
-  <img src="https://github.com/wcksnrdn/wcksnrdn/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</div>
-
-## 🧠 Problem-Solving Journey
-
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/?username=wcksnrdn&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ## 🌱 Current Learning Path
