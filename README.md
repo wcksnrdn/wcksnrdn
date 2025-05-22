@@ -1,4 +1,4 @@
-<div align="center">    
+<div align="center">     
   <!-- Advanced Animated Header with 3D Text Effect -->    
   <h1>     
     <a href="https://git.io/typing-svg"> 
